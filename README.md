@@ -1,4 +1,4 @@
 # IBM-Project-4262-1658727002
-Nutrition assistant Application
+Nutrition Assistant Application
 
-Demo Link:https://youtu.be/llvRMgcQMH4
+Demo Link : Youtube (https://youtu.be/llvRMgcQMH4)
